@@ -3,7 +3,7 @@
 ## Como usar o código
 O código foi escrito utilizando a linguagem python e está divido em duas partes:
 * [Código que **descreve** as equações de movimento do Pêndulo usando programação simbólica (Sympy);](https://github.com/VictorPPF/PenduloDuploMovel/tree/main#c%C3%B3digo-que-descreve-as-equa%C3%A7%C3%B5es)
-* [Código que **simula** o movimento em 3D do Pêndulo usando uma biblioteca que suporta animações (Vpython).](https://github.com/VictorPPF/PenduloDuploMovel/tree/main#c%C3%B3digo-que-descreve-as-equa%C3%A7%C3%B5es)
+* [Código que **simula** o movimento em 3D do Pêndulo usando uma biblioteca que suporta animações (Vpython).](https://github.com/VictorPPF/PenduloDuploMovel#c%C3%B3digo-que-simula-o-movimento-do-p%C3%AAndulo)
 
 ### Código que descreve as equações
 Para descrever as equações de movimento do Pêndulo foi utilizado o Sympy como recurso auxiliar durante a realização dos cálculos.  
