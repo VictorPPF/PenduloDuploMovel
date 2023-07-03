@@ -1,7 +1,9 @@
 # Pêndulo Duplo Móvel
 ## Introduçãoo
+O sistema de um pêndulo duplo ligado a uma haste móvel é um sistema complexo que pode ser descrito usando instrumentos da Mecânica Langragiana.  
+Nesse projeto as fórmulas que descrevem a posição de cada elemento do sistema no tempo foram usadas para criar uma simulação de como seria seu movimento.Isso foi possível através da utilização da programação simbólica, métodos numéricos e ferramentas de desenho 3D.
 ## Como usar o código
-O código foi escrito utilizando a linguagem python e está divido em duas partes:
+O projeto foi elaborado utilizando a linguagem python e está divido em duas partes:
 * [Código que **descreve** as equações de movimento do Pêndulo usando programação simbólica (Sympy);](https://github.com/VictorPPF/PenduloDuploMovel/tree/main#c%C3%B3digo-que-descreve-as-equa%C3%A7%C3%B5es)
 * [Código que **simula** o movimento em 3D do Pêndulo usando uma biblioteca que suporta animações (Vpython).](https://github.com/VictorPPF/PenduloDuploMovel#c%C3%B3digo-que-simula-o-movimento-do-p%C3%AAndulo)
 
