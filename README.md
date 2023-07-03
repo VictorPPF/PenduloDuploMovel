@@ -1,5 +1,5 @@
 # Pêndulo Duplo Móvel
-## Introduçãoo
+## Introdução
 O sistema de um pêndulo duplo ligado a uma haste móvel é um sistema complexo que pode ser descrito usando instrumentos da Mecânica Langragiana.  
 Nesse projeto as fórmulas que descrevem a posição de cada elemento do sistema no tempo foram usadas para criar uma simulação de como seria seu movimento.Isso foi possível através da utilização da programação simbólica, métodos numéricos e ferramentas de desenho 3D.
 ## Como usar o código
