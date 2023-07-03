@@ -10,7 +10,7 @@ O projeto foi elaborado utilizando a linguagem python e está divido em duas par
 ### Código que descreve as equações
 Para descrever as equações de movimento do Pêndulo foi utilizado o Sympy como recurso auxiliar durante a realização dos cálculos.  
 O código foi escrito utilizando notebook python. Para executar o notebook é necessário ter acesso às bibliotecas Sympy e Numpy. É recomendável usar de alguma plataforma online para executar os códigos, como [Google Colab](https://colab.research.google.com/?utm_source=scs-index) ou [Jupyter Lab](https://jupyter.org/try-jupyter/lab/)   
-Você também pode acessar o código na nuvem por [aqui](https://colab.research.google.com/drive/1caeWvM9ORHY2nHHDVRRtx540s32mEpDJ).   
+Você também pode acessar o código na nuvem por [aqui](https://colab.research.google.com/drive/1caeWvM9ORHY2nHHDVRRtx540s32mEpDJ?usp=sharing).   
 
 ### Código que simula o movimento do Pêndulo
 Para simular o movimento do Pêndulo foi utilizado o Glowscript, uma plataforma online que, utilizando o Vpython, é capaz de renderizar animações em três dimensões.  
