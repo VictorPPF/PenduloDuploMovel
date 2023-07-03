@@ -13,7 +13,8 @@ O código foi escrito utilizando notebook python. Para executar o notebook é ne
 Você também pode acessar o código na nuvem por [aqui](https://colab.research.google.com/drive/1caeWvM9ORHY2nHHDVRRtx540s32mEpDJ).   
 
 ### Código que simula o movimento do Pêndulo
-Para simnular o movimento do Pêndulo foi utilizado o Glowscript, uma plataforma online que, utilizando o Vpython, é capaz de renderizar animações em três dimensões.  
-Para executar o código de simualção é recomendável criar uma conta no [Glowscript](https://www.glowscript.org/), caso não tenha, criar um novo programa e colar o código no aba de edição de código.  
+Para simular o movimento do Pêndulo foi utilizado o Glowscript, uma plataforma online que, utilizando o Vpython, é capaz de renderizar animações em três dimensões.  
+O código além de executar as animações também possui uma interface gráfica onde o usuário pode pausar a animação, escolher a massa dos elementos, escolher o ângulo das massas, mudar a cor de fundo e mostrar o gráfico das energias cinéticas e potencias. 
+Para executar o código de simualção é recomendável criar uma conta no [Glowscript](https://www.glowscript.org/), caso não tenha, criar um novo programa e colar o código no aba de edição.  
 Você também pode acessar o código diretamente por [aqui](https://www.glowscript.org/#/user/victorpinto/folder/MyPrograms/program/PenduloDuploDefinitivo).   
-**ATENÇÃO**: Ao executar o código você será questionado sobre os dois ângulo que as massas do Pêndulo terão, atente-se a isso! 
+**ATENÇÃO**: Ao executar o código você será obrigado a escrever os dois ângulos que as massas do Pêndulo terão, atente-se a isso! 
